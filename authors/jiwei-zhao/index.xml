@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiwei Zhao on Huijie&#39;s Home Page</title>
+    <link>/authors/jiwei-zhao/</link>
+    <description>Recent content in Jiwei Zhao on Huijie&#39;s Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2099 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/jiwei-zhao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Working Paper) Optimal Estimation of High-dimensional Covariate-adjusted Cut Point for 1-bit measurements</title>
+      <link>/publication/mcid/</link>
+      <pubDate>Thu, 01 Jan 2099 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/mcid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

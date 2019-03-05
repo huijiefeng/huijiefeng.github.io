@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Huijie&#39;s Home Page</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Huijie&#39;s Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Huijie Feng</title>
+      <link>/authors/huijie-feng/</link>
+      <pubDate>Thu, 01 Jan 2099 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/huijie-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiwei Zhao</title>
+      <link>/authors/jiwei-zhao/</link>
+      <pubDate>Thu, 01 Jan 2099 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/jiwei-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Ning</title>
+      <link>/authors/yang-ning/</link>
+      <pubDate>Thu, 01 Jan 2099 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/yang-ning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
