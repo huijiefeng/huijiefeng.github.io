@@ -6,10 +6,19 @@
     <description>Recent content in Yang Ning on Huijie&#39;s Home Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/authors/yang-ning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Regularized Training and Tight Certification for Randomized Smoothed Classifier with Provable Robustness</title>
+      <link>/publication/aaai2020/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/aaai2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nonregular and Minimax Estimation of Individualized Thresholds in High Dimension with Binary Responses</title>
@@ -23,7 +32,7 @@
     <item>
       <title>High-dimensional Mixed Graphical Model with Ordinal Data: Parameter Estimation and Statistical Inference</title>
       <link>/publication/mixed_graphical_model/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>/publication/mixed_graphical_model/</guid>
       <description></description>

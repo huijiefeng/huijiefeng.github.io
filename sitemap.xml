@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/aaai2020/</loc>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/mcid/</loc>
       <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     </url>
@@ -13,7 +21,7 @@
     <url>
     
       <loc>/publication/mixed_graphical_model/</loc>
-      <lastmod>2019-04-16T00:00:00-07:00</lastmod>
+      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -21,7 +29,7 @@
     <url>
     
       <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
+      <lastmod>2018-06-28T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -59,8 +67,26 @@
     
     <url>
     
+      <loc>/authors/chunpeng-wu/</loc>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/guoyang-chen/</loc>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/huijie-feng/</loc>
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -69,7 +95,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -95,7 +121,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -110,8 +136,17 @@
     
     <url>
     
+      <loc>/authors/weifeng-zhang/</loc>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/yang-ning/</loc>
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-07T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
